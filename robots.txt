@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reuters-news.github.io/update/sitemap.xml
